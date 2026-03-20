@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahman Darmawan</h1>
-<h3 align="center">A passionate Data Engineer from Jakarta</h3>
+<h3 align="center">A passionate Software Engineer from Jakarta</h3>
 
 - 📫 How to reach me **rahmandarmawan747@gmail.com**
 
